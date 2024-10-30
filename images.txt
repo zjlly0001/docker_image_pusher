@@ -1,1 +1,1 @@
-docker:26.1.4
+tomcat:9.0.54-jdk11-openjdk-slim
