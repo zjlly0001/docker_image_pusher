@@ -1,1 +1,1 @@
-zabbix/zabbix-java-gateway:alpine-6.2-latest
+zabbix/zabbix-web-nginx-mysql:5.0-centos-latest
