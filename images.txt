@@ -1,2 +1,1 @@
-redis
-kafka
+mysql:8.0
