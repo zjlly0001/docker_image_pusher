@@ -1,1 +1,1 @@
-zabbix/zabbix-agent:5.0-centos-latest
+grafana/grafana:10.2.2
