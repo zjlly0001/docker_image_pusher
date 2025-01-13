@@ -1,1 +1,1 @@
-docker pull zabbix/zabbix-agent:5.0-centos-latest
+mysql:5.7
