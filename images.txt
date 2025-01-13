@@ -1,1 +1,1 @@
-mysql:8.0
+zabbix/zabbix-java-gateway:alpine-6.2-latest
