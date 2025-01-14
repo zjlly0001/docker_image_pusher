@@ -1,1 +1,1 @@
-zabbix/zabbix-web-nginx-mysql:centos-6.2.7
+zabbix/zabbix-agent:centos-6.2.7
