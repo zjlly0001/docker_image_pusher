@@ -1,1 +1,1 @@
-mysql:8.0.32
+zabbix/zabbix-server-mysql:centos-6.2.7
