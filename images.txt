@@ -1,1 +1,1 @@
-zabbix/zabbix-agent:centos-6.2.7
+grafana/grafana:lastest
