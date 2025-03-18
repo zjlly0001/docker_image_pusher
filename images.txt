@@ -1,1 +1,1 @@
-zabbix-server-mysql:last
+zabbix-server-mysql
