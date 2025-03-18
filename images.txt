@@ -1,1 +1,1 @@
-zabbix/zabbix-server-mysql
+mysql:8.0.39
