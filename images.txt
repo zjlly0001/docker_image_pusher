@@ -1,1 +1,1 @@
-elasticsearch:8.4.3
+kibana:8.4.3
