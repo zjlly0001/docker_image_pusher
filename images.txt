@@ -1,1 +1,1 @@
-filebeat:7.1.1
+elastic/filebeat:8.4.3
