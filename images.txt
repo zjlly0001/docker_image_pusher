@@ -1,1 +1,1 @@
-elastic/elasticsearch:7.1.1
+jenkinsci/blueocean
